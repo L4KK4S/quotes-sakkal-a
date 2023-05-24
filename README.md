@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: DOS SANTOS Thomas Group A
 
 ## Fork urls
-- `contributor-1`: [https://github.com/Abdel380/quotes-hlali-a.git](url-1)
-- `contributor-2`: [https://github.com/Theo5454/quotes-bracquemart-a](url-2)
-- `contributor-3`: [https://github.com/Thomdoss/quotes-dossantos-a](url-3)
+- `contributor-1`: https://github.com/Abdel380/quotes-hlali-a.git
+- `contributor-2`: [https://github.com/Theo5454/quotes-bracquemart-a
+- `contributor-3`: [https://github.com/Thomdoss/quotes-dossantos-a
